@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@pgprimitz?theme=rule34&scale=2" alt="Mis Visitas" />
+</p>
